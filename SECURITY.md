@@ -14,6 +14,8 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
+İlk Önce Yapmanız Gereken Dependapot Uyarılarını Aktif Hale Getirmektir.
+
 www.bounty.github.com 
 
 GitHub Güvenlik Açıklarını Bildirmeniz  İçin
