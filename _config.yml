@@ -39,7 +39,7 @@ baseurl: "https://www.mycomputer.digital/Fast-pages" # the subpath of your site,
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
+    twitter: guler_ercetin
     github: fastai
 
 # Set this to true to get LaTeX math equation support
